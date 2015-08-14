@@ -1,0 +1,18 @@
+.header {
+	margin-top: 100px;
+	text-align: center;
+}
+
+img.circle {
+	max-width: 150px;
+	border-radius: 50%;
+}
+
+img.work-snapshot {
+	width: 100%;
+	box-shadow: 1px 1px 2px #555;
+}
+
+.work-example {
+	margin-bottom: 40px;
+}
