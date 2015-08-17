@@ -37,3 +37,16 @@ img.work-snapshot {
 .work-example {
 	margin-bottom: 40px;
 }
+
+footer {
+	position: relative;
+	height: 75px;
+}
+
+footer > div {
+	width: 100%;
+}
+
+footer > div > div {
+	text-align: center;
+}
