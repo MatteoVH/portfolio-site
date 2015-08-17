@@ -11,6 +11,19 @@ nav {
 	text-align: right;
 }
 
+.header-link {
+	padding: 5px;
+	display: inline-block;
+	transition: border .2s;
+	border-bottom: 2px solid #999;
+	margin: 15px;
+}
+
+.header-link.active,
+.header-link:hover {
+	border-bottom: 4px solid rgb(34, 34, 34);
+}
+
 img.circle {
 	max-width: 150px;
 	border-radius: 50%;
