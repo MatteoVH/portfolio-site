@@ -7,6 +7,10 @@ header a {
 	color: rgb(34,34,34);
 }
 
+nav {
+	text-align: right;
+}
+
 img.circle {
 	max-width: 150px;
 	border-radius: 50%;
