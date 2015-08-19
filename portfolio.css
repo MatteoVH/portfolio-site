@@ -50,3 +50,21 @@ footer > div {
 footer > div > div {
 	text-align: center;
 }
+
+.footer-link {
+	margin-bottom: 25px;
+}
+
+.footer-link.three.columns {
+	width: 100%;
+	margin-left: 0;
+}
+
+@media (min-width: 1350px) {
+	.footer-link.three.columns {
+		width: 22%;
+	}
+	.footer-link.three.columns:not(:first-child) {
+		margin-left: 4%;
+	}
+}
