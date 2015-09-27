@@ -30,12 +30,27 @@ img.circle {
 }
 
 img.work-snapshot {
+	display: block;
 	width: 100%;
-	box-shadow: 1px 1px 2px #555;
 }
 
 .work-example {
 	margin-bottom: 40px;
+	box-shadow: 1px 1px 2px #555;
+}
+
+.site-description {
+	display: none;
+	padding: 25px;
+}
+
+a.work-link {
+	text-decoration: none;
+}
+
+button {
+	display: block;
+	margin: 0 auto;
 }
 
 footer {
