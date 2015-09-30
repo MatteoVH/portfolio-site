@@ -32,6 +32,7 @@ img.circle {
 img.work-snapshot {
 	display: block;
 	width: 100%;
+	cursor: pointer;
 }
 
 .work-example {
